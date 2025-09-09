@@ -5,7 +5,7 @@ namespace Amani\Reddit;
 use GuzzleHttp\Client as GuzzleClient;
 use GuzzleHttp\Exception\RequestException;
 
-class Client
+class Reddit
 {
     protected $http;
     protected $accessToken;
