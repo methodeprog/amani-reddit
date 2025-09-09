@@ -17,11 +17,6 @@
         "psr-4": {
             "Amani\\Reddit\\": "src/"
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/methodeprog/amani-reddit.git"
-        }
-    ]
+    }
 }
+
